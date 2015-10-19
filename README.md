@@ -50,7 +50,7 @@
 ----
 # 关于我
 * Email： <13141459344@163.com>, <qiwangming@gmail.com>
-* 个人主页：[msandroid's blog](http:://www.jycoder.com)
+* 个人主页：[msandroid's blog](http://www.jycoder.com)
 * CSDN博客：[明桑Android_CSDN博客](http://blog.csdn.net/qwm8777411)
 * 新浪微博: [明桑Android](http://weibo.com/msAndroid/)
 * 有任何建议或者使用中遇到问题都可以给我发邮件, 你也可以到微信公众平台下留言
