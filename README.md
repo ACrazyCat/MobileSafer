@@ -45,7 +45,10 @@
 
 
 ##1.1.1
-- 持续更新中...
+- 完成手机防盗模块密码部分
+
+<img src="https://github.com/msAndroid/MobileSafer/blob/master/app/src/main/res/drawable/screenshot_setpwd.png" alt="Drawing" width="200px" />
+<img src="https://github.com/msAndroid/MobileSafer/blob/master/app/src/main/res/drawable/screenshot_interpwd.png" alt="Drawing" width="200px" />
 
 ----
 # 关于我
